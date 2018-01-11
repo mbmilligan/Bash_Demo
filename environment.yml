@@ -1,4 +1,3 @@
-name: py3k
 channels:
 - conda-forge
 dependencies:
